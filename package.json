@@ -1,0 +1,19 @@
+{
+  "name": "planetshell",
+  "version": "1.0.0",
+  "description": "planet shell website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Royshell/planetShell.git"
+  },
+  "author": "Roy Shell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Royshell/planetShell/issues"
+  },
+  "homepage": "https://github.com/Royshell/planetShell#readme"
+}
